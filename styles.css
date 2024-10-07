@@ -71,7 +71,7 @@ article p:first-of-type {
 .pic img{
     float: right;
     width: 100%;
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
     margin: 30px;
 }
